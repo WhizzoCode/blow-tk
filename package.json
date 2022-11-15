@@ -29,5 +29,8 @@
   },
   "license": "MIT",
   "type": "module",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "lit": "^2.4.1"
+  }
 }
