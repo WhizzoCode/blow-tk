@@ -1,0 +1,33 @@
+{
+  "name": "blow-tk",
+  "version": "0.0.0",
+  "description": "A collection of UI components to build desktop user interfaces.",
+  "keywords": [
+    "web",
+    "custom",
+    "components",
+    "elements",
+    "widgets",
+    "ui",
+    "desktop",
+    "interface",
+    "toolkit",
+    "library"
+  ],
+  "homepage": "https://github.com/WhizzoCode/blow-tk#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhizzoCode/blow-tk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WhizzoCode/blow-tk/issues"
+  },
+  "author": {
+    "name": "Sergio Martín",
+    "email": "sergio@sergiomartin.dev",
+    "url": "https://www.sergiomartin.dev"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js"
+}
